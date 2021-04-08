@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaykant06
+- 👋 Hi, I’m Vijay Kant Kumar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning M.Sc Data Science
 - 💞️ I’m looking to collaborate on Data Analysis
